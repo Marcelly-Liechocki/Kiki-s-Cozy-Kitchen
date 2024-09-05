@@ -1,2 +1,2 @@
-# Kiki-s-Cozy-Kitchen
+# Kiki's Cozy Kitchen
 -- ESCREVER AQUI O DESCRITIVO DO PROJETO --
